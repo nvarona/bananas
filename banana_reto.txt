@@ -1,0 +1,7 @@
+Retos:
+- Limitar bananas MAX en pantalla
+- Sacoeficienca:
+    Que las bananas den por saco eficientemente sin que el programa PETE
+- Las bananas consuman RAM
+- Como crear un ejecutable o .bat
+
